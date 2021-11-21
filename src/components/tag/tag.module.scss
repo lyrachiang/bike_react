@@ -1,0 +1,27 @@
+@import "../../assets/css/variable";
+@import "../../assets/css/mixin";
+
+.tag {
+  display: inline-flex;
+  font-size: 12px;
+  line-height: 1;
+  color: #ffffff;
+  padding: 6px 10px;
+  border-radius: 30px;
+}
+
+.tag_status.tag_normal {
+  background-color: #70c5a1;
+}
+
+.tag_status.tag_pause {
+  background-color: #2797f3;
+}
+
+.tag_status.tag_stop {
+  background-color: #f59c9c;
+}
+
+.tag_service {
+  background-color: #ffc58f;
+}

@@ -1,0 +1,7 @@
+@import '../../assets/css/variable';
+@import '../../assets/css/mixin';
+@import './mapbox.module.scss';
+
+.leaflet-popup-content p {
+  margin: 0;
+}

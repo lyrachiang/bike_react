@@ -1,0 +1,51 @@
+@import "../../assets/css/variable";
+@import "../../assets/css/mixin";
+
+.mapbox_container {
+  width: 100%;
+  height: 100%;
+}
+
+.info_block {
+  h4 {
+    margin: 0;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.4;
+    color: #484e60;
+    margin-bottom: 8px;
+  }
+}
+
+.tag_container {
+  display: flex;
+  margin: 0 -4px;
+  margin-bottom: 8px;
+  > div {
+    flex: 0 0 auto;
+    > .gap {
+      padding: 0 4px;
+    }
+  }
+}
+
+.info_box {
+  > div > div:nth-child(1) {
+    align-items: flex-start;
+    p {
+      margin: 0;
+      word-break: keep-all;
+      font-size: 16px;
+      line-height: 1.43;
+      color: #8c8f97;
+    }
+  }
+  > div > div:nth-child(2) {
+    p {
+      margin: 0;
+      font-size: 16px;
+      line-height: 1.43;
+      color: #484e60;
+    }
+  }
+}
