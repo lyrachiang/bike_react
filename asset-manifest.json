@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/bike_react/static/css/main.d55a54f8.chunk.css",
-    "main.js": "/bike_react/static/js/main.b98a0c9d.chunk.js",
-    "main.js.map": "/bike_react/static/js/main.b98a0c9d.chunk.js.map",
+    "main.css": "/bike_react/static/css/main.057ea232.chunk.css",
+    "main.js": "/bike_react/static/js/main.5b279985.chunk.js",
+    "main.js.map": "/bike_react/static/js/main.5b279985.chunk.js.map",
     "runtime-main.js": "/bike_react/static/js/runtime-main.d701fa93.js",
     "runtime-main.js.map": "/bike_react/static/js/runtime-main.d701fa93.js.map",
     "static/css/2.68ba508b.chunk.css": "/bike_react/static/css/2.68ba508b.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.1745d838.chunk.js.map": "/bike_react/static/js/3.1745d838.chunk.js.map",
     "index.html": "/bike_react/index.html",
     "static/css/2.68ba508b.chunk.css.map": "/bike_react/static/css/2.68ba508b.chunk.css.map",
-    "static/css/main.d55a54f8.chunk.css.map": "/bike_react/static/css/main.d55a54f8.chunk.css.map",
+    "static/css/main.057ea232.chunk.css.map": "/bike_react/static/css/main.057ea232.chunk.css.map",
     "static/js/2.2713b474.chunk.js.LICENSE.txt": "/bike_react/static/js/2.2713b474.chunk.js.LICENSE.txt",
     "static/media/arrow_down.6592a6be.svg": "/bike_react/static/media/arrow_down.6592a6be.svg",
     "static/media/arrow_left.382cd7aa.svg": "/bike_react/static/media/arrow_left.382cd7aa.svg",
@@ -37,7 +37,7 @@
     "static/js/runtime-main.d701fa93.js",
     "static/css/2.68ba508b.chunk.css",
     "static/js/2.2713b474.chunk.js",
-    "static/css/main.d55a54f8.chunk.css",
-    "static/js/main.b98a0c9d.chunk.js"
+    "static/css/main.057ea232.chunk.css",
+    "static/js/main.5b279985.chunk.js"
   ]
 }
