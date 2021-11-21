@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/bike_react/static/css/main.d55a54f8.chunk.css",
+    "main.js": "/bike_react/static/js/main.b98a0c9d.chunk.js",
+    "main.js.map": "/bike_react/static/js/main.b98a0c9d.chunk.js.map",
+    "runtime-main.js": "/bike_react/static/js/runtime-main.d701fa93.js",
+    "runtime-main.js.map": "/bike_react/static/js/runtime-main.d701fa93.js.map",
+    "static/css/2.68ba508b.chunk.css": "/bike_react/static/css/2.68ba508b.chunk.css",
+    "static/js/2.2713b474.chunk.js": "/bike_react/static/js/2.2713b474.chunk.js",
+    "static/js/2.2713b474.chunk.js.map": "/bike_react/static/js/2.2713b474.chunk.js.map",
+    "static/js/3.1745d838.chunk.js": "/bike_react/static/js/3.1745d838.chunk.js",
+    "static/js/3.1745d838.chunk.js.map": "/bike_react/static/js/3.1745d838.chunk.js.map",
+    "index.html": "/bike_react/index.html",
+    "static/css/2.68ba508b.chunk.css.map": "/bike_react/static/css/2.68ba508b.chunk.css.map",
+    "static/css/main.d55a54f8.chunk.css.map": "/bike_react/static/css/main.d55a54f8.chunk.css.map",
+    "static/js/2.2713b474.chunk.js.LICENSE.txt": "/bike_react/static/js/2.2713b474.chunk.js.LICENSE.txt",
+    "static/media/arrow_down.6592a6be.svg": "/bike_react/static/media/arrow_down.6592a6be.svg",
+    "static/media/arrow_left.382cd7aa.svg": "/bike_react/static/media/arrow_left.382cd7aa.svg",
+    "static/media/arrow_right.34cfb9f2.svg": "/bike_react/static/media/arrow_right.34cfb9f2.svg",
+    "static/media/arrow_up.de187d23.svg": "/bike_react/static/media/arrow_up.de187d23.svg",
+    "static/media/building.37f3ae1b.svg": "/bike_react/static/media/building.37f3ae1b.svg",
+    "static/media/calendar.aba14c92.svg": "/bike_react/static/media/calendar.aba14c92.svg",
+    "static/media/car.feeb9881.svg": "/bike_react/static/media/car.feeb9881.svg",
+    "static/media/caret_down.3b449567.svg": "/bike_react/static/media/caret_down.3b449567.svg",
+    "static/media/clock.06b7a747.svg": "/bike_react/static/media/clock.06b7a747.svg",
+    "static/media/station.module.scss": "/bike_react/static/media/loading.5fa384e4.jpg",
+    "static/media/globe_asia.edf624d8.svg": "/bike_react/static/media/globe_asia.edf624d8.svg",
+    "static/media/location.209ac755.svg": "/bike_react/static/media/location.209ac755.svg",
+    "static/media/location_arrow.2324eb26.svg": "/bike_react/static/media/location_arrow.2324eb26.svg",
+    "static/media/location_green.07a0dc31.svg": "/bike_react/static/media/location_green.07a0dc31.svg",
+    "static/media/long_arrow_left.87396569.svg": "/bike_react/static/media/long_arrow_left.87396569.svg",
+    "static/media/long_arrow_right.5df4e667.svg": "/bike_react/static/media/long_arrow_right.5df4e667.svg",
+    "static/media/map_marker_alt.0656ae24.svg": "/bike_react/static/media/map_marker_alt.0656ae24.svg",
+    "static/media/phone.170cd436.svg": "/bike_react/static/media/phone.170cd436.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d701fa93.js",
+    "static/css/2.68ba508b.chunk.css",
+    "static/js/2.2713b474.chunk.js",
+    "static/css/main.d55a54f8.chunk.css",
+    "static/js/main.b98a0c9d.chunk.js"
+  ]
+}
